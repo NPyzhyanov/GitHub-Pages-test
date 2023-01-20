@@ -4,7 +4,7 @@
 Никита Пыжьянов
 
 #### Группа:
-*CPP-7*
+**CPP-7**
 
 #### Фото (не моё):
 ![фото](https://theanimalw.com/wp-content/uploads/2016/01/380.jpg)

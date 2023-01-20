@@ -7,7 +7,7 @@
 *CPP-7*
 
 #### Фото (не моё):
-![фото](https://krd.ru/upload/resize_cache/webp/resize_cache/iblock/d13/1284_720_2/kam1hnn336ktql7oipgavzvojca6rywm.webp)
+![фото](https://theanimalw.com/wp-content/uploads/2016/01/380.jpg)
 
 #### Языки программирования:
 1. **C++** - изучаю
